@@ -11,20 +11,20 @@ I'm currently studying **IT Engineering** at Sookmyung Women's University (2022.
 ## 💻 Experience
 
 ### Student Council
-- 숙명여자대학교 IT공학전공 제7대 학생회 「Let IT Snow」 - 미디어기획부 부원 (2022)
+- 숙명여자대학교 IT공학전공 제7대 학생회 「Let IT Snow」 - 미디어기획부 (2022)
 - 숙명여자대학교 인공지능공학부 제1대 학생회 「All In」 - 미디어기획부 부장 (2023)
 - 숙명여자대학교 인공지능공학부 제2대 학생회 「pAInt IT」 - 홍보복지부 부장 (2024)
 
 ### Projects
 - 코드잇 부스트 1기 - 프론트엔드 (2024) — 「조각집」
+- 「AssetAid」: 사회초년생을 위한 금융상품 추천 앱 - 프론트엔드
+- 「Noon」: 안구 건강/집중 관리 데스크톱 앱 - 프론트엔드
 - 주식회사 다비다 산학협력 프로젝트
-  - 「AssetAid」: 사회초년생을 위한 금융상품 추천 앱 - 프론트엔드
-  - 「Noon」: 안구 건강/집중 관리 데스크톱 앱 - 프론트엔드
 
 ---
 
 ## 🏆 Awards
-- 코드잇 부스트 교내 데모데이 대상 - 「조각집」
+- 코드잇 부스트 교내 데모데이 대상 - 「조각집」 (2024)
 
 ---
 
@@ -39,7 +39,6 @@ I'm currently studying **IT Engineering** at Sookmyung Women's University (2022.
 ---
 
 ## 🛠 Tech Stack
-
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
