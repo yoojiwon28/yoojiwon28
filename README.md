@@ -1,6 +1,8 @@
-# Hi there! 🌱
+<div align="center"> <img src="./banner.svg" alt="Jiwon's GitHub" width="600" /> </div>
 
-I'm currently studying **IT Engineering** at Sookmyung Women's University (2022.03 ~ Present).
+Hi there! 🌱
+I'm currently studying **IT Engineering** at Sookmyung Women's University.
+Aspiring frontend developer focused on building user-centered experiences with React and React Native.
 
 - 🔭 Building **Sobicut** — an impulsive spending detection and analysis service for college students → *Frontend Developer*
 - 🌎 Completed a 6-month program at the University of Alberta, Canada (2025.09 ~ 2026.02)
@@ -16,7 +18,7 @@ I'm currently studying **IT Engineering** at Sookmyung Women's University (2022.
 - 숙명여자대학교 인공지능공학부 제2대 학생회 「pAInt IT」 - 홍보복지부 부장 (2024)
 
 ### Projects
-- 코드잇 부스트 1기 - 프론트엔드 (2024) — 「조각집」
+- 「조각집」: 기억 저장 및 공유 웹 서비스 - 프론트엔드
 - 「AssetAid」: 사회초년생을 위한 금융상품 추천 앱 - 프론트엔드
 - 「Noon」: 안구 건강/집중 관리 데스크톱 앱 - 프론트엔드
 
@@ -35,7 +37,7 @@ I'm currently studying **IT Engineering** at Sookmyung Women's University (2022.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
