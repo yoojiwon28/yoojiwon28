@@ -1,0 +1,21 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softBlur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="35" />
+    </filter>
+    <radialGradient id="mintGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#AEEBD3" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#AEEBD3" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#AEEBD3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="220" fill="#FFFFFF" />
+  <circle cx="400" cy="110" r="90" fill="url(#mintGlow)" filter="url(#softBlur)" />
+
+  <text x="400" y="122" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="44" font-weight="700" fill="#2D3436" letter-spacing="0.5">
+    Jiwon's GitHub
+  </text>
+</svg>
