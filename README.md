@@ -5,25 +5,24 @@
 Hi there! 🌱
 I'm currently studying **IT Engineering** at Sookmyung Women's University.
 
-Aspiring frontend developer focused on building user-centered experiences with React and React Native.
+Aspiring frontend developer focused on building user-centered experiences
 
-- 🔭 Building **Sobicut** — an impulsive spending detection and analysis service for college students → *Frontend Developer*
 - 🌎 Completed a 6-month program at the University of Alberta, Canada (2025.09 ~ 2026.02)
 - 🏫 3 years of Student Council experience (2022 ~ 2024)
+  - 숙명여자대학교 IT공학전공 제7대 학생회 「Let IT Snow」 (2022)
+  -  숙명여자대학교 인공지능공학부 제1대 학생회 「All In」 (2023)
+  - 숙명여자대학교 인공지능공학부 제2대 학생회 「pAInt IT」 (2024)
 
 ---
 
 ## 💻 Experience
 
-### Student Council
-- 숙명여자대학교 IT공학전공 제7대 학생회 「Let IT Snow」 (2022)
-- 숙명여자대학교 인공지능공학부 제1대 학생회 「All In」 (2023)
-- 숙명여자대학교 인공지능공학부 제2대 학생회 「pAInt IT」 (2024)
 
 ### Projects
 - 「조각집」: 기억 저장 및 공유 웹 서비스 - 프론트엔드
 - 「AssetAid」: 사회초년생을 위한 금융상품 추천 앱 - 프론트엔드
 - 「Noon」: 안구 건강/집중 관리 데스크톱 앱 - 프론트엔드
+- 「Sobicut: 대학생 소비 패턴 분석 및 충동 소비 감지 서비스 - 프론트엔드
 
 ---
 
