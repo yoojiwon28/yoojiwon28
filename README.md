@@ -9,9 +9,6 @@ Aspiring frontend developer focused on building user-centered experiences
 
 - 🌎 Completed a 6-month program at the University of Alberta, Canada (2025.09 ~ 2026.02)
 - 🏫 3 years of Student Council experience (2022 ~ 2024)
-  - 숙명여자대학교 IT공학전공 제7대 학생회 「Let IT Snow」 (2022)
-  -  숙명여자대학교 인공지능공학부 제1대 학생회 「All In」 (2023)
-  - 숙명여자대학교 인공지능공학부 제2대 학생회 「pAInt IT」 (2024)
 
 ---
 
